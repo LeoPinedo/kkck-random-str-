@@ -1,0 +1,16 @@
+{
+  "name": "kkck-random-str-",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Pinedo <leopinedofernandez@gmail.com>",
+  "license": "MIT",
+  "bin" : {
+    "kkck-random-str-": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
