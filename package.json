@@ -1,6 +1,6 @@
 {
   "name": "kkck-random-str-",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random string messages",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Leonardo Pinedo <leopinedofernandez@gmail.com>",
   "license": "MIT",
-  "bin" : {
+  "bin": {
     "kkck-random-str-": "./bin/global.js"
   },
   "preferGlobal": true
